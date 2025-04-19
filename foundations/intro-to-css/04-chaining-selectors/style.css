@@ -7,3 +7,8 @@
     width: var(--pwidth);
     height: var(--pwidth);
 }
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}

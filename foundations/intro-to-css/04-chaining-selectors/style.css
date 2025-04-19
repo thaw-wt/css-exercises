@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+:root {
+    --pwidth: 300px;
+}
+
+.avatar.proportioned {
+    width: var(--pwidth);
+    height: var(--pwidth);
+}
